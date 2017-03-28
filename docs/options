@@ -1,0 +1,24 @@
+-classpath
+'C:/Users/Admin/.m2/repository/org/jetbrains/annotations/15.0/annotations-15.0.jar;C:/Users/Admin/.m2/repository/org/jogamp/gluegen/gluegen-rt/2.3.2/gluegen-rt-2.3.2-natives-linux-amd64.jar;C:/Users/Admin/.m2/repository/org/jogamp/gluegen/gluegen-rt-main/2.3.2/gluegen-rt-main-2.3.2.jar;C:/Users/Admin/.m2/repository/org/scream3r/jssc/2.8.0/jssc-2.8.0.jar;C:/Users/Admin/.m2/repository/org/jogamp/gluegen/gluegen-rt/2.3.2/gluegen-rt-2.3.2-natives-windows-i586.jar;C:/Users/Admin/.m2/repository/commons-io/commons-io/2.4/commons-io-2.4.jar;C:/Users/Admin/.m2/repository/org/json/JSON-java/2015-06-04/JSON-java-2015-06-04.jar;C:/Users/Admin/.m2/repository/org/jogamp/gluegen/gluegen-rt/2.3.2/gluegen-rt-2.3.2-natives-macosx-universal.jar;C:/Users/Admin/.m2/repository/org/jogamp/jogl/jogl-all/2.3.2/jogl-all-2.3.2-natives-android-aarch64.jar;C:/Users/Admin/.m2/repository/org/jogamp/gluegen/gluegen-rt/2.3.2/gluegen-rt-2.3.2.jar;C:/Users/Admin/.m2/repository/org/jogamp/jogl/jogl-all/2.3.2/jogl-all-2.3.2-natives-linux-i586.jar;C:/Users/Admin/.m2/repository/org/jogamp/jogl/jogl-all/2.3.2/jogl-all-2.3.2.jar;C:/Users/Admin/.m2/repository/org/jogamp/jogl/jogl-all/2.3.2/jogl-all-2.3.2-natives-android-armv6.jar;C:/Users/Admin/.m2/repository/org/jogamp/jogl/jogl-all-main/2.3.2/jogl-all-main-2.3.2.jar;C:/Users/Admin/.m2/repository/org/jogamp/gluegen/gluegen-rt/2.3.2/gluegen-rt-2.3.2-natives-windows-amd64.jar;C:/Users/Admin/.m2/repository/org/kabeja/kabeja/0.4/kabeja-0.4.jar;C:/Users/Admin/.m2/repository/org/jogamp/jogl/jogl-all/2.3.2/jogl-all-2.3.2-natives-solaris-amd64.jar;C:/Users/Admin/.m2/repository/org/slf4j/slf4j-api/1.7.12/slf4j-api-1.7.12.jar;C:/Users/Admin/.m2/repository/org/jogamp/jogl/jogl-all/2.3.2/jogl-all-2.3.2-natives-macosx-universal.jar;C:/Users/Admin/.m2/repository/org/jogamp/jogl/jogl-all/2.3.2/jogl-all-2.3.2-natives-solaris-i586.jar;C:/Users/Admin/.m2/repository/javax/vecmath/vecmath/1.5.2/vecmath-1.5.2.jar;C:/Users/Admin/.m2/repository/org/jogamp/gluegen/gluegen-rt/2.3.2/gluegen-rt-2.3.2-natives-linux-armv6.jar;C:/Users/Admin/.m2/repository/org/jogamp/jogl/jogl-all/2.3.2/jogl-all-2.3.2-natives-linux-armv6hf.jar;C:/Users/Admin/.m2/repository/org/jogamp/gluegen/gluegen-rt/2.3.2/gluegen-rt-2.3.2-natives-android-armv6.jar;C:/Users/Admin/.m2/repository/org/jogamp/jogl/jogl-all/2.3.2/jogl-all-2.3.2-natives-windows-i586.jar;C:/Users/Admin/.m2/repository/org/jogamp/gluegen/gluegen-rt/2.3.2/gluegen-rt-2.3.2-natives-android-aarch64.jar;C:/Users/Admin/.m2/repository/org/jogamp/jogl/jogl-all/2.3.2/jogl-all-2.3.2-natives-linux-amd64.jar;C:/Users/Admin/.m2/repository/org/jogamp/gluegen/gluegen-rt/2.3.2/gluegen-rt-2.3.2-natives-solaris-i586.jar;C:/Users/Admin/.m2/repository/org/jogamp/gluegen/gluegen-rt/2.3.2/gluegen-rt-2.3.2-natives-linux-i586.jar;C:/Users/Admin/.m2/repository/org/jogamp/jogl/jogl-all/2.3.2/jogl-all-2.3.2-natives-linux-armv6.jar;C:/Users/Admin/.m2/repository/org/jogamp/gluegen/gluegen-rt/2.3.2/gluegen-rt-2.3.2-natives-linux-armv6hf.jar;C:/Users/Admin/.m2/repository/org/jogamp/jogl/jogl-all/2.3.2/jogl-all-2.3.2-natives-windows-amd64.jar;C:/Users/Admin/.m2/repository/org/jogamp/gluegen/gluegen-rt/2.3.2/gluegen-rt-2.3.2-natives-solaris-amd64.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Users/Admin/Documents/GitHub/RO-Mantis/src/main/java;C:/Users/Admin/Documents/GitHub/RO-Mantis/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2017 <a href="http://www.marginallyclever.com/">Marginally Clever Robots, Limited.</a>. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Admin/Documents/GitHub/RO-Mantis/docs'
+-docencoding
+'UTF-8'
+-doctitle
+'Robot Overlord Mantis Plugin v1.0.0 API'
+-linkoffline
+'http://docs.oracle.com/javase/8/docs/api' 'C:/Users/Admin/Documents/GitHub/RO-Mantis/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Robot Overlord Mantis Plugin v1.0.0 API'
